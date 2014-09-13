@@ -9,9 +9,16 @@ body, input, select, textarea {
 }
 
 /* HEADER */
+#header {
+    padding: 1em;
+    position: fixed;
+    font-size: 0.8em;
+    color: inherit;
+}
 #header ul {
     list-style-type: none;
 }
 #header ul li{
     display: inline;
+    margin-left: 1.5em;
 }
