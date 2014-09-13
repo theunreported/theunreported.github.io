@@ -11,4 +11,5 @@ body, input, select, textarea {
 /* HEADER */
 #header ul {
     list-style-type: none;
+    display: inline;
 }
